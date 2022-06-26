@@ -5,7 +5,7 @@ import iterm2
 async def main(connection):
     all_profiles = await iterm2.PartialProfile.async_query(connection)
     for profile in all_profiles:
-        if profile.name == "Your Profile Name Goes Here":
+        if profile.name == "MacOS":
             await profile.async_make_default()
             return
 
