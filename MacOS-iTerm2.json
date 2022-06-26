@@ -335,7 +335,7 @@
         "Alpha Component" : 1,
         "Green Component" : 0.92941170930862427
       },
-      "Name" : "Default",
+      "Name" : "MacOS",
       "Cursor Text Color" : {
         "Red Component" : 0.15686270594596863,
         "Color Space" : "sRGB",
@@ -389,7 +389,7 @@
         "Alpha Component" : 1,
         "Green Component" : 0.92941170930862427
       },
-      "Normal Font" : "MesloLGS-NF-Regular 12",
+      "Normal Font" : "MesloLGS-NF-Regular 14",
       "Ansi 3 Color" : {
         "Red Component" : 0.95294123888015747,
         "Color Space" : "sRGB",
